@@ -1,0 +1,129 @@
+"Project-Id-Version: treba-wp\n"
+"POT-Creation-Date: 2021-02-16 20:22+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: treba-wp\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Каталог сайтів"
+msgstr "Каталог сайтов"
+
+msgid "SEO-аналіз, вартість сайту та його рейтинг - це, та багато іншого, ви знайдете в нашому каталозі"
+msgstr "SEO-анализ, стоимость сайта и его рейтинг - это, и многое другое, вы найдете в нашем каталоге"
+
+msgid "Додати сайт"
+msgstr "Добавить сайт"
+
+msgid "Лідери нашого рейтингу"
+msgstr "Лидеры нашего рейтинга"
+
+msgid "Найкращі по SEO"
+msgstr "Лучшие по SEO"
+
+msgid "Сайти на CMS"
+msgstr "Сайты на CMS"
+
+msgid "Вільні домени"
+msgstr "Свободные домены"
+
+msgid "Найстаріші сайти"
+msgstr "Самые старые сайты"
+
+msgid "Наш вибір"
+msgstr "Наш выбор"
+
+msgid "Аналіз сайту"
+msgstr "Анализ сайта"
+
+msgid "Зайнятий"
+msgstr "Занят"
+
+msgid "Вільний"
+msgstr "Свободен"
+
+msgid "Загальна інформація"
+msgstr "Общая информация"
+
+msgid "Назва сайту"
+msgstr "Название сайта"
+
+msgid "Сайт працює на CMS"
+msgstr "Сайт работает на CMS"
+
+msgid "Основна мова сайта"
+msgstr "Основной язык сайта"
+
+msgid "Приблизна вартість сайту"
+msgstr "Приблизительная стоимость сайта"
+
+msgid "Оцінки сайту"
+msgstr "Оценки сайта"
+
+msgid "SEO оцінка"
+msgstr "SEO оценка"
+
+msgid "Оцінка дизайну"
+msgstr "Оценка дизайна"
+
+msgid "Оцінка тексту"
+msgstr "Оценка текста"
+
+msgid "Загальна оцінка"
+msgstr "Общая оценка"
+
+msgid "Показники сайту"
+msgstr "Показатели сайта"
+
+msgid "Показник"
+msgstr "Показатель"
+
+msgid "Значення"
+msgstr "Значение"
+
+msgid "Дані WHOIS"
+msgstr "Данные WHOIS"
+
+msgid "Дата реестрації"
+msgstr "Дата регистрации"
+
+msgid "Дата закінчення"
+msgstr "Дата окончания"
+
+msgid "Скільки років сайту"
+msgstr "Сколько лет сайту"
+
+msgid "Реєстратор"
+msgstr "Регистратор"
+
+msgid "Головна"
+msgstr "Главная"
+
+msgid "Про сайт"
+msgstr "О сайте"
+
+msgid "Контакти"
+msgstr "Контакты"
+
+msgid "Мова"
+msgstr "Язык"
+
+msgid "Добірки"
+msgstr "Подборки"
+
+msgid "Нещодавно перевірені"
+msgstr "Недавно проверенные"
+
+msgid "Зараз переглядають"
+msgstr "Сейчас просматривают"
+
+msgid "Більше інформації"
+msgstr "Больше информации"
