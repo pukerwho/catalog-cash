@@ -14,12 +14,12 @@ $all_sites_args = array(
   <div class="bg-white font-light rounded p-3">
     <ul class="theme-list">
       <li class="text-lg mb-2"><a href="<?php echo get_page_url('page-wordpress'); ?>">WordPress</a></li>
-      <li class="text-lg mb-2"><a href="<?php get_page_url('page-joomla'); ?>">Joomla</a></li>
-      <li class="text-lg mb-2"><a href="<?php get_page_url('page-prom'); ?>">Prom</a></li>
-      <li class="text-lg mb-2"><a href="<?php get_page_url('page-drupal'); ?>">Drupal</a></li>
-      <li class="text-lg mb-2"><a href="<?php get_page_url('page-opencart'); ?>">OpenCart</a></li>
-      <li class="text-lg mb-2"><a href="<?php get_page_url('page-prestashop'); ?>">Prestashop</a></li>
-      <li class="text-lg"><a href="<?php get_page_url('page-tilda'); ?>">Tilda</a></li>
+      <li class="text-lg mb-2"><a href="<?php echo get_page_url('page-joomla'); ?>">Joomla</a></li>
+      <li class="text-lg mb-2"><a href="<?php echo get_page_url('page-prom'); ?>">Prom</a></li>
+      <li class="text-lg mb-2"><a href="<?php echo get_page_url('page-drupal'); ?>">Drupal</a></li>
+      <li class="text-lg mb-2"><a href="<?php echo get_page_url('page-opencart'); ?>">OpenCart</a></li>
+      <li class="text-lg mb-2"><a href="<?php echo get_page_url('page-prestashop'); ?>">Prestashop</a></li>
+      <li class="text-lg"><a href="<?php echo get_page_url('page-tilda'); ?>">Tilda</a></li>
 
     </ul>
   </div>
