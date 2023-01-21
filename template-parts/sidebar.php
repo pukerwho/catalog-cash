@@ -48,7 +48,7 @@ $all_sites_args = array(
     ));
     ?>
     <?php if ($new_sites->have_posts()) : while ($new_sites->have_posts()) : $new_sites->the_post(); ?>
-      <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><?php the_title(); ?></div>
+      <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
     <?php endwhile; endif; wp_reset_postdata(); ?>
   </div>
 </div>
@@ -65,7 +65,7 @@ $all_sites_args = array(
     ));
     ?>
     <?php if ($seo_sites->have_posts()) : while ($seo_sites->have_posts()) : $seo_sites->the_post(); ?>
-      <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><?php the_title(); ?></div>
+      <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
     <?php endwhile; endif; wp_reset_postdata(); ?>
   </div>
 </div>
@@ -81,7 +81,7 @@ $all_sites_args = array(
     ));
     ?>
     <?php if ($now_sites->have_posts()) : while ($now_sites->have_posts()) : $now_sites->the_post(); ?>
-      <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><?php the_title(); ?></div>
+      <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
     <?php endwhile; endif; wp_reset_postdata(); ?>
   </div>
 </div>
