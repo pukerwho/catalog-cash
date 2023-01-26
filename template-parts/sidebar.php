@@ -98,3 +98,4 @@ $all_sites_args = array(
     <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="https://s-cast.ua/">s-cast.ua</a></div>
   </div>
 </div>
+<?php endif; ?>
