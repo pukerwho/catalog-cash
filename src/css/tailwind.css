@@ -128,3 +128,7 @@ main {
 .top-block {
   @apply bg-white py-16;
 }
+
+.super-links a {
+  @apply block border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0;
+}
