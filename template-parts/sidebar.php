@@ -86,7 +86,6 @@ $all_sites_args = array(
   </div>
 </div>
 
-
 <div class="mb-10">
   <div class="bg-theme-sky text-xl text-center rounded border-2 border-gray-700 px-4 py-3 mb-4"><?php _e("Рекомендуємо", "treba-wp"); ?></div>
   <div class="bg-white font-light rounded p-3">
@@ -110,6 +109,18 @@ $all_sites_args = array(
         <?php endforeach; ?>
       </div>
     <?php endif; ?>
+  </div>
+</div>
+
+<div class="mb-10">
+  <div class="bg-theme-sky text-xl text-center rounded border-2 border-gray-700 px-4 py-3 mb-4"><?php _e("Цікаві статті", "treba-wp"); ?></div>
+  <div class="bg-white font-light rounded p-3">
+    <div class="flex items-center">
+      <div class="mr-2">
+        <img src="http://internetcashadvanceonline.com/wp-content/uploads/2023/04/videonabljudenija.jpeg" class="w-[52px] min-w-[52px] h-[52px] min-h-[52px] object-cover rounded" loading="lazy" alt="Видеонаблюдение в частном доме">
+      </div>
+      <div><a href="https://icatalog.pro/12670-vazhnost-roli-videonabljudenija/" class="hover:text-blue-600">О важности роли видеонаблюдения в системе охраны частного дома</a></div>
+    </div>
   </div>
 </div>
 
