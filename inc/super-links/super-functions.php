@@ -94,7 +94,8 @@ function get_super_links($id) {
       }
     }
   }
-  
+
+  $current_top_links = $wpdb->get_results("SELECT top_links FROM super_seo_links WHERE post_URL = '$id'");
   return $current_top_links;
 }
 
