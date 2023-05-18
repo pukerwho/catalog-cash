@@ -92,6 +92,7 @@ $all_sites_args = array(
     <?php if (is_home()): ?>
       <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="https://tarakan.org.ua/">tarakan.org.ua</a></div>
       <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="https://priazovka.com/">priazovka.com</a></div>
+      <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="https://icatalog.pro/">icatalog.pro</a></div>
       <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="https://webgolovolomki.com/">webgolovolomki.com</a></div>
       <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="https://sdamkvartiry.com/">sdamkvartiry.com</a></div>
       <div class="border-b border-gray-200 last:border-transparent pb-2 mb-2 last:mb-0 last:pb-0"><a href="https://d-art.org.ua/">d-art.org.ua</a></div>
@@ -112,7 +113,7 @@ $all_sites_args = array(
   </div>
 </div>
 
-<div class="mb-10">
+<div class="hidden mb-10">
   <div class="bg-theme-sky text-xl text-center rounded border-2 border-gray-700 px-4 py-3 mb-4"><?php _e("Цікаві статті", "treba-wp"); ?></div>
   <div class="bg-white font-light rounded p-3">
     <div class="flex items-center">
