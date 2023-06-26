@@ -311,7 +311,7 @@
             </div>
           </div>
           <!-- breadcrumbs -->
-          <div class="breadcrumbs text-sm text-gray-800 dark:text-gray-200" itemprop="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+          <div class="breadcrumbs text-sm text-gray-800" itemprop="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
             <ul class="flex items-center flex-wrap -mr-4">
               <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem' class="breadcrumbs_item px-4 pl-8">
                 <a itemprop="item" href="<?php echo home_url(); ?>" class="text-blue-500">
