@@ -84,7 +84,7 @@
       </nav>
       <div class="border-b border-gray-200 mb-6"></div>
       <?php if (function_exists('pll_the_languages')): ?>
-      <div class="px-2">
+      <div class="px-2 mb-6">
         <div class="flex items-center text-zinc-600 mb-2">
           <div class="mr-1">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
@@ -100,6 +100,10 @@
         </div>
       </div>
       <?php endif; ?>
+      <div class="border-b border-gray-200 mb-6"></div>
+      <div class="px-2">
+        <a href="https://sviato.top/"><img src="https://internetcashadvanceonline.com/wp-content/uploads/2024/05/sviato.jpeg" alt="Sviato.top" width="25"></a>
+      </div>
     </div>
     
   </div>
